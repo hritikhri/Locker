@@ -7,7 +7,7 @@ body {
 .locker-container {
   height: 100vh;
   display: flex;
-  justify-content: center;
+  justify-content: center;  
   align-items: center;
 }
 
