@@ -6,5 +6,5 @@ const port = process.env.Port;
 app.use('/api',require('./routers/PinRoutes'))
 
 app.listen(port,()=>{
-    console.log(`server is ok running on port ${port}`)
+    console.log(`server is running on port ${port}`)
 })    
