@@ -4,7 +4,7 @@ export const CheckPin = () => {
   return (
     <>
     <div className="container">
-      <div className="pin"></div>
+      <div className="pin">boxes</div>
       <div className="keyboard"></div>
     </div>
     </>
