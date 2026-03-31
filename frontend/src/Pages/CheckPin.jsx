@@ -31,9 +31,6 @@ const [password, setPassword] = useState("");
       }
 
       // Backspace
-      if (e.key === "Backspace") {
-        setPassword((prev) => prev.slice(0, -1)); 
-      }
 
       // Enter key
       if (e.key === "Enter") {
