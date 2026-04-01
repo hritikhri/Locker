@@ -3,4 +3,4 @@ const { CheckPin } = require('../controllers/PinControllers');
 
 Router.get("/checkpin",CheckPin);
 
-module.exports = Router;
+module.exports = Router;    
