@@ -6,4 +6,4 @@ const CheckPin = async (req,res)=>{
     }
 }
 
-module.exports = {CheckPin}            
+module.exports = {CheckPin};
