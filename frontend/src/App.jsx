@@ -10,7 +10,7 @@ function App() {
         <Routes>
           <Route path="/" Component={HomePage}/>
           <Route path="/pin" Component={CheckPin}/>
-        </Routes>
+        </Routes>       
       </Router>
     </>
   )
